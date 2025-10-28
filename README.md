@@ -13,5 +13,5 @@ In today’s digital world, cloud computing has become the backbone of online se
 At the heart of this infrastructure are Operating Systems, which manage and allocate resources, ensure security, and handle automation across distributed environments. This article explains how OSs — particularly Linux and Windows Server — support virtualization, process management, and scalable cloud architectures.
 
 The piece also explores containerization (Docker, Kubernetes) and future OS trends such as AI-based optimization and energy-efficient computing.
-[Read the Full Article] (./Article.md)
+
   
